@@ -8,6 +8,7 @@ International Space Station Tracker made using Angular. Used Input/Output Decora
 
 ## Resources Used
 
+Udesful for map projection:
 <a href="https://stackoverflow.com/questions/14329691/convert-latitude-longitude-point-to-a-pixels-x-y-on-mercator-projection">
   Used for transforming coordinates to mercator map projection
 </a>
