@@ -4,7 +4,7 @@
 
 ## About the project
 
-International Space Station Tracker made using Angular. Used Input/Output Decorators, Components, Services and Http requests.
+International Space Station Tracker made using Angular(tracking real time, pretty high accuracy). Used Input/Output Decorators, Components, Services and Http requests.
 
 ## Resources Used
 
