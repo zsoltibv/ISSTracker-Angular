@@ -1,0 +1,13 @@
+<div class="heading">
+  <h1>International Space Station (ISS)</h1>
+  <h3>Coordinates:</h3>
+  <div class="coord-info">
+    <p>Latitude: {{ satellite.latitude }}</p>
+    <p>Longitude: {{ satellite.longitude }}</p>
+  </div>
+  <app-map-panel
+    [latitude]="this.satellite.latitude"
+    [longitude]="this.satellite.longitude"
+  >
+  </app-map-panel>
+</div>

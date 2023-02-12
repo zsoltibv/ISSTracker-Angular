@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'iss-tracker';
+
+  visibility: string = "";
+
+  setVisibility(event:string){
+    this.visibility = event;
+    console.log(this.visibility);
+  }
 }
